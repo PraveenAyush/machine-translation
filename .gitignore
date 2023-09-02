@@ -1,0 +1,16 @@
+# VS Code Settings
+/.vscode
+
+# __pycache__
+**/__pycache__/
+
+# English-German Data
+**/en-de/
+
+# Raw Data
+/data/en-kn/train.en
+/data/en-kn/train.kn
+/data/en-kn/data.tsv
+
+# Model files
+/models

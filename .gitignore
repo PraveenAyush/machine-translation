@@ -12,5 +12,8 @@
 /data/en-kn/train.kn
 /data/en-kn/data.tsv
 
+# IAM Handwriting Data (too big)
+/data/handwriting
+
 # Model files
 /models
